@@ -20,7 +20,7 @@ if(c==1)
 {
  if(r>0&&r<=21369)
  {
- printf("you are eligible for a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible for a seat in vnr vjiet and the respective branches are\n");
  if(r<=1527)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=1559)
@@ -57,7 +57,7 @@ else if(c==2)
 {
  if(r>0&&r<=78155)
  {
- printf("you are eligible for a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible for a seat in vnr vjiet and the respective branches are\n");
  if(r<=4723)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=5898)
@@ -88,13 +88,13 @@ else if(c==2)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==3)
 {
  if(r>0&&r<=45867)
  {
- printf("you are eligible for a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible for a seat in vnr vjiet and the respective branches are\n");
  if(r<=2732)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=2751)
@@ -125,13 +125,13 @@ else if(c==3)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==4)
 {
 if(r>0&&r<=82150)
  {
- printf("you are eligible for a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible for a seat in vnr vjiet and the respective branches are\n");
  if(r<=1559)
  printf("COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)\n");
  if(r<=1768)
@@ -162,13 +162,13 @@ if(r>0&&r<=82150)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==5)
 {
  if(r>0&&r<=27166)
  {
- printf("you are eligible for a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible for a seat in vnr vjiet and the respective branches are\n");
  if(r<=2326)
  printf("COMPUTER SCIENCE AND ENGINEERING (IOT)\n");
  if(r<=2501)
@@ -199,13 +199,13 @@ else if(c==5)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==6)
 {
  if(r>0&&r<=78155)
  {
- printf("you are eligible for seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible for seat in vnr vjiet and the respective branches are\n");
  if(r<=3067)
  printf("COMPUTER SCIENCE AND BUSINESS SYSTEMS\n");
  if(r<=4293)
@@ -236,13 +236,13 @@ else if(c==6)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==7)
 {
  if(r>0&&r<=80730)
  {
- printf("you are eligible for seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible for seat in vnr vjiet and the respective branches are\n");
  if(r<=14352)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=15216)
@@ -273,13 +273,13 @@ else if(c==7)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==8)
 {
  if(r>0&&r<=55165)
  {
- printf("you are eligible for the seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible for the seat in vnr vjiet and the respective branches are\n");
  if(r<=3067)
  printf("COMPUTER SCIENCE AND BUSINESS SYSTEMS\n");
  if(r<=9529)
@@ -310,7 +310,7 @@ else if(c==8)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else
  printf("invalid input");
@@ -321,7 +321,7 @@ if(c==1)
 {
  if(r>0&&r<=28492)
  {
- printf("you are eligible to get a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible to get a seat in vnr vjiet and the respective branches are\n");
  if(r<=1767)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=1592)
@@ -352,13 +352,13 @@ if(c==1)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
  }
 else if(c==2)
 {
  if(r>0&&r<=55752)
  {
- printf("you are eligible to get a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible to get a seat in vnr vjiet and the respective branches are\n");
  if(r<=5782)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=6959)
@@ -389,13 +389,13 @@ else if(c==2)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==3)
 {
  if(r>0&&r<=45867)
  {
- printf("you are eligible to get a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible to get a seat in vnr vjiet and the respective branches are\n");
  if(r<=3076)
  printf("COMPUTER SCIENCE ENGINEERING (DATA SCIENCES)\n");
  if(r<=3128)
@@ -426,13 +426,13 @@ else if(c==3)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==4)
 {
  if(r>0&&r<=82150)
  {
- printf("you are eligible to get a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible to get a seat in vnr vjiet and the respective branches are\n");
  if(r<=1592)
  printf("COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)\n");
  if(r<=2241)
@@ -463,13 +463,13 @@ else if(c==4)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==5)
 {
  if(r>0&&r<=67970)
  {
- printf("you are eligible to get a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible to get a seat in vnr vjiet and the respective branches are\n");
  if(r<=3203)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=3270)
@@ -500,13 +500,13 @@ else if(c==5)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==6)
 {
  if(r>0&&r<=78155)
  {
- printf("you are eligible to get a seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible to get a seat in vnr vjiet and the respective branches are\n");
  if(r<=4310)
  printf("COMPUTER SCIENCE ENGINEERING (DATA SCIENCES)\n");
  if(r<=5022)
@@ -537,13 +537,13 @@ else if(c==6)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==7)
 {
  if(r>=0&&r<=80730)
  {
- printf("you are eligible to get seat in vnr vjiet and the respective branches are\n");
+ printf("You are eligible to get seat in vnr vjiet and the respective branches are\n");
  if(r<=15151)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=19388)
@@ -574,13 +574,13 @@ else if(c==7)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible");
+ printf("You are not eligible");
 }
 else if(c==8)
 {
  if(r>0&&r<=77331)
  {
- printf("you are eligible to get Seat in vnr vjiet and respective branches are:\n");
+ printf("You are eligible to get Seat in vnr vjiet and respective branches are:\n");
  if(r<=14805)
  printf("COMPUTER SCIENCE AND ENGINEERING\n");
  if(r<=17100)
@@ -611,7 +611,7 @@ else if(c==8)
  else if(r<=0)
  printf("Invalid Input\n");
  else
- printf("you are not eligible to get a seat in vnrvjiet");
+ printf("You are not eligible to get a seat in vnrvjiet");
  }
 else
  printf("invalid input");
